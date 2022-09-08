@@ -43,6 +43,7 @@
     "vue": "^2.6.0 || >=3.0.0-rc.0"
   },
   "scripts": {
+    "prepare": "npm run build",
     "build": "rollup -c",
     "dev": "rollup -c -w",
     "version": "npm run build && git add -A",
