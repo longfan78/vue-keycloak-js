@@ -1,5 +1,5 @@
 {
-  "name": "longfan78/vue-keycloak-js",
+  "name": "@longfan78/vue-keycloak-js",
   "version": "2.1.5-beta",
   "author": "Nils Lien",
   "description": "A Keycloak plugin for Vue >= 2.x",
